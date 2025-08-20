@@ -61,9 +61,9 @@ pip install numpy pandas scikit-learn xgboost lightgbm catboost imbalanced-learn
 
 * The notebook reports validation metrics (e.g., ROC-AUC) and saves a Kaggle-ready `submission.csv`.
 
-Public LB: TBD
+* Public LB: TBD
 
-Private LB: TBD
+* Private LB: TBD
 
 ## Future Improvements
 
